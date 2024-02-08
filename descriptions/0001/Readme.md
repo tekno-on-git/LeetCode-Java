@@ -1,4 +1,4 @@
-# [Two Sum] [title]
+# [Two Sum][title]
 
 ## Description
 
