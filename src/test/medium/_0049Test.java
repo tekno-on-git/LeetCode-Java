@@ -25,13 +25,9 @@ public class _0049Test {
         }
 
         var gotList = soln.groupAnagrams(new String[] { "eat", "tea", "tan", "ate", "nat", "bat" });
+        // TODO: Testing 2D Lists: Order agnostic even in Sub Lists
 
-        assertTrue(expectedList.size() == gotList.size());
-        // System.out.println(gotList.toString());
-        System.out.println(new HashSet<List<String>>(expectedList).containsAll(new HashSet<List<String>>(gotList)));
-        // assertTrue(new HashSet<List<String>>(expectedList).equals(new
-        // HashSet<List<String>>(gotList)));
-
+        // Base Line Cases Pass -> Order Agnostic on 1d Arrays
         expectedList = new ArrayList<>();
         expectedList.add(Arrays.asList(new String[] { "" }));
 
