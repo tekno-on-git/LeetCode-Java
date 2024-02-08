@@ -1,10 +1,10 @@
-package src.test.medium;
+package test.medium;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-import src.main.medium._0007.Solution;
+import main.medium._0007.Solution;
 
 public class _0007Test {
     @Test

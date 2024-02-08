@@ -1,11 +1,9 @@
-package src.test.easy;
-
-import static org.junit.Assert.assertEquals;
+package test.easy;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import src.main.easy._0001.Solution;
+import main.easy._0001.Solution;
 
 public class _0001Test {
     @Test

@@ -1,4 +1,4 @@
-package src.main.medium._0007;
+package main.medium._0007;
 
 public class Solution {
     public int reverse(int x) {
