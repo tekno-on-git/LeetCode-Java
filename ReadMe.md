@@ -4,8 +4,8 @@
 
 | #   | Title                          | Tag                        | Testing |
 | :-- | :----------------------------- | :------------------------- | :------ |
-| 1   | [Two Sum][0001]                | Array, Hash Table          | [x]     |
-| 9   | [Palindrome Number][0009]      | Math                       | [x]     |
+| 1   | [Two Sum][0001]                | Array, Hash Table          | - [x]   |
+| 9   | [Palindrome Number][0009]      | Math                       | - [x]   |
 | 20  | [Valid Parentheses][0020]      | String, Stack              | [x]     |
 | 21  | [Merge Two Sorted Lists][0021] | String, Recursion          | [x]     |
 | 217 | [Contains Duplicate][0217]     | Array, HashTable, Sorting  | [x]     |
