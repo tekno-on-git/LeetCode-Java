@@ -22,11 +22,14 @@
 | 347 | [Top K Frequent Elements][0347]            | Array, HashTable, Counting, Heap (PQ) | ✅      |
 | 36  | [Valid Sudoku][0036]                       | Array, HashTable, Matrix              | ✅      |
 | 167 | [Two Sum II - Input Array Is Sorted][0167] | Array, Two Pointers, Binary Search    | ✅      |
+| 11  | [Container With Most Water][0011]          | Array, Two Pointers, Greedy           | ✅      |
+| 15  | [3 Sum][0015]                              | Array, Two Pointers, Sorting          | ❌      |
 
 ## Hard
 
-| #   | Title | Tag |
-| :-- | :---- | :-- |
+| #   | Title                       | Tag                                             | Testing |
+| :-- | :-------------------------- | :---------------------------------------------- | ------- |
+| 42  | [Trapping Rain Water][0042] | Array, Two pointers, Dynamic Programming, Stack | ✅      |
 
 [0001]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/easy/_0001
 [0007]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/medium/_0007
@@ -42,3 +45,5 @@
 [0128]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/medium/_0128
 [0125]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/easy/_0125
 [0167]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/medium/_0167
+[0042]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/hard/_0042
+[0011]: https://github.com/codeph-0bia/LeetCode-Java/tree/main/src/main/medium/_0011
